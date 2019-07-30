@@ -6,6 +6,7 @@ import '@polymer/iron-flex-layout/iron-flex-layout-classes.js';
 import * as d3 from 'd3';
 import {hierarchy, tree} from "d3-hierarchy";
 import {flextree} from 'd3-flextree';
+import { addClass, hasClass, removeClass } from './utils.js';
 
 /**
  * `json-schema-viewer`
