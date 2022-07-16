@@ -7,7 +7,7 @@
     "@polymer/polymer": "^3.0.0",
     "ajv": "^6.12.3",
     "d3": "^5.9.7",
-    "d3-flextree": "^2.1.1"
+    "d3-flextree": "^2.1.2"
   },
   "devDependencies": {
     "@polymer/iron-demo-helpers": "^3.0.0-pre.19",
