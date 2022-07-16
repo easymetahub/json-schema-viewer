@@ -5,7 +5,7 @@
   "dependencies": {
     "@polymer/iron-resizable-behavior": "^3.0.1",
     "@polymer/polymer": "^3.0.0",
-    "ajv": "^6.12.3",
+    "ajv": "^6.12.6",
     "d3": "^5.9.7",
     "d3-flextree": "^2.1.2"
   },
