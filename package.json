@@ -4,7 +4,7 @@
   "main": "json-schema-viewer.js",
   "dependencies": {
     "@polymer/iron-resizable-behavior": "^3.0.1",
-    "@polymer/polymer": "^3.0.0",
+    "@polymer/polymer": "^3.5.1",
     "ajv": "^6.12.3",
     "d3": "^5.9.7",
     "d3-flextree": "^2.1.1"
